@@ -97,8 +97,8 @@ func devision(a,b int){			//функция с названием "деление
 
 func main(){
 	
-	devision(6,0)
-	devision(6,3)
-	devision(6,2)
+	devision(6,0) //неизвестный результат
+	devision(6,3) //2
+	devision(6,2) //2
 }
 
